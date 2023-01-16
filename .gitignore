@@ -1,2 +1,6 @@
 *.o
 *.txt
+*.vcxproj*
+.vs/
+.vscode/
+x64/
